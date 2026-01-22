@@ -3,4 +3,4 @@ Matric Number: 23CG034095
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
 Live URL of the hosted application: [Your Streamlit URL, e.g., https://winecultivar-adeboyin.streamlit.app]
-GitHub repository link: [Your GitHub URL, e.g., https://github.com/yourusername/WineCultivar_Project_Adeboyin_123456]
+GitHub repository link: https://github.com/anilovesdata/WineCultivar_Project_MeneAnirejuoritse_23CG034095
